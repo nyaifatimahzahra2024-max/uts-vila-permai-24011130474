@@ -23,7 +23,8 @@ Desain Responsif
 <img width="949" height="452" alt="image" src="https://github.com/user-attachments/assets/5f82d936-bc32-479b-b63e-6b032bea42e2" />
 
 # Riwayat Commit
-![alt text](Commit.jpeg)
+<img width="1080" height="923" alt="Riwayat" src="https://github.com/user-attachments/assets/e304cc0c-b30e-4a10-bfd6-e77c557f6621" />
+
 # Tampilan Mobile
 <img width="870" height="1600" alt="View" src="https://github.com/user-attachments/assets/d23e247a-2d86-4a41-bb82-4ce93ff07403" />
 
